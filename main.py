@@ -13,7 +13,7 @@ def transformar_preco_em_valor_real(preco_texto):
 
 
 pagina = 'https://www.dafiti.com.br/Tenis-Converse-Chuck-Taylor-All-Star-Azul-7717087.html'
-PRECO_MAXIMO = 300
+PRECO_MAXIMO = 200
 
 while True:
     try:
